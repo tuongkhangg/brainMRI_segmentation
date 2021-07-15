@@ -1,4 +1,4 @@
-# Recognition
+# WEB Deployment of brain tumor segmentation
 
 Các bước thực hiện:
 
