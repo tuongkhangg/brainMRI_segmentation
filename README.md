@@ -3,6 +3,7 @@
 Authors:
 1.  Duong Le Tuong Khang
 2.  La Truong Hai
+3.  Nguyen Huu Khang
 
 This github includes preprocessing algorithms, segmentation models and post-processing method
 
@@ -18,4 +19,6 @@ We compare some models like Unet, Unet++ and analysis advantages and drawbacks b
 
 ## Post-processing
 When we had a model, we recognized some drawbacks. Initially, some holes and small regions emerged in masks. To solve this problem, we apply a algorithms that it finds a connected components and deletes follow to a threshold.
+
+## Depoy web
 
