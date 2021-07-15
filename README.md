@@ -11,7 +11,7 @@ This github includes preprocessing algorithms, segmentation models and post-proc
 We use dataset from a paper: Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm
 
 ## Preprocessing
-We uses this ![github](https://github.com/MaciejMazurowski/brain-segmentation) to remove skull in MRI image to increase accuracy.  
+We uses this [github](https://github.com/MaciejMazurowski/brain-segmentation) to remove skull in MRI image to increase accuracy.  
 We implement CLAHE to image and resize it to common frame (256x256). 
 
 ## Segmentation Models
