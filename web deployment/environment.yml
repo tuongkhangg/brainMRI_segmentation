@@ -1,0 +1,5 @@
+name: recognition
+dependencies:
+  - pip
+  - python=3.7
+  - anaconda
