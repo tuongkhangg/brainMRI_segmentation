@@ -21,4 +21,4 @@ We compare some models like Unet, Unet++ and analysis advantages and drawbacks b
 When we had a model, we recognized some drawbacks. Initially, some holes and small regions emerged in masks. To solve this problem, we apply a algorithms that it finds a connected components and deletes follow to a threshold.
 
 ## Depoy web
-
+Source code in Web deployment folder. 
